@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/projects-guide/static/css/main.91d59a2e.css",
-    "main.js": "/projects-guide/static/js/main.1baa801a.js",
+    "main.css": "/projects-guide/static/css/main.c4cf3dfe.css",
+    "main.js": "/projects-guide/static/js/main.12759c5e.js",
     "static/media/movie-app-img.png": "/projects-guide/static/media/movie-app-img.6d94f2e2b110f5552d91.png",
     "static/media/memory_game.png": "/projects-guide/static/media/memory_game.46cc0c0fb08d9af6bb0b.png",
     "static/media/profile-pic.jpg": "/projects-guide/static/media/profile-pic.bc4b5397881670f24d72.jpg",
     "static/media/tracalorie-app-img.png": "/projects-guide/static/media/tracalorie-app-img.64aec11c23e4182e15df.png",
-    "static/media/practice.png": "/projects-guide/static/media/practice.3636e780cde51b9c219b.png",
     "static/media/myMoney_app.png": "/projects-guide/static/media/myMoney_app.7f69cd71eb16a73ec9f6.png",
+    "static/media/practice.png": "/projects-guide/static/media/practice.33110a88537237b1eb04.png",
     "static/media/shopping-list-app-img.png": "/projects-guide/static/media/shopping-list-app-img.469f31183a8dcc2f28ed.png",
     "index.html": "/projects-guide/index.html",
-    "main.91d59a2e.css.map": "/projects-guide/static/css/main.91d59a2e.css.map",
-    "main.1baa801a.js.map": "/projects-guide/static/js/main.1baa801a.js.map"
+    "main.c4cf3dfe.css.map": "/projects-guide/static/css/main.c4cf3dfe.css.map",
+    "main.12759c5e.js.map": "/projects-guide/static/js/main.12759c5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.91d59a2e.css",
-    "static/js/main.1baa801a.js"
+    "static/css/main.c4cf3dfe.css",
+    "static/js/main.12759c5e.js"
   ]
 }
